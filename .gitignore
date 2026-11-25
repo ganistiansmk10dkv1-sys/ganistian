@@ -1,0 +1,24 @@
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencies & build output (jika nanti pakai tooling)
+node_modules/
+dist/
+.cache/
+
+# Env
+.env
+.env.*
